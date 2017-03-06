@@ -2843,16 +2843,9 @@ And this project is not using the image file!
 1. **AndroidSdkSourceAnalysis** android sdk 源码解析——旨在帮助Android开发者更好的学习Android！我们只是一群普通的程序员，但是，我们热爱分享，想热热闹闹的玩点有意义的事！如果你也想陪我们一起愉快的玩耍，欢迎加入我们！Issues认领分析文章！        
 [https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
 
-
-### About
-* Email：yanghui1986527#gmail.com
-* QQ Group: 529327615      
-**Welcome to talk about Android.**
-
-
 ## License
 ```
-Copyright (C) 2014 Snowdream Mobile <yanghui1986527@gmail.com>
+Copyright (C) 2014 Snowdream Mobile <>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
